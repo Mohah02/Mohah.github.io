@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name's Personal Website</title>
+    <title>Hassan's Personal Website</title>
     <link rel="icon" href="favicon.ico"> <!-- Favicon -->
     <style>
         body {
@@ -27,14 +27,14 @@
 <body>
 
     <h1>Welcome to My Personal Website!</h1>
-    <p>Hello! My name is [Your Name]. This is a brief introduction about myself.</p>
+    <p>Hello! My name is Hassan Omar. This is all about my life</p>
 
     <!-- Unordered List -->
     <h2>My Hobbies:</h2>
     <ul>
-        <li>Reading</li>
-        <li>Traveling</li>
-        <li>Coding</li>
+        <li>Playing soccer</li>
+        <li>Spending Time With Family and Friends</li>
+        <li>Swimming</li>
     </ul>
 
     <!-- Ordered List -->
@@ -49,8 +49,8 @@
     <h2>My Favorite Books:</h2>
     <table>
         <tr>
-            <th>Title</th>
-            <th>Author</th>
+            <th>diary wimpy kid</th>
+            <th>Jeff Kinney</th>
         </tr>
         <tr>
             <td>The Great Gatsby</td>
@@ -66,7 +66,7 @@
     <h2>My Favorite Movies:</h2>
     <table class="no-border">
         <tr>
-            <td>The Shawshank Redemption</td>
+            <td>Avenger Endgame</td>
         </tr>
         <tr>
             <td>Inception</td>
